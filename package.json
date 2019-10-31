@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sequelize": "^5.9.1",
+    "sequelize": "^5.15.1",
     "tedious": "6.0.0"
   },
   "devDependencies": {
